@@ -1,0 +1,86 @@
+FISH NAME               PRICE   LOC                 SIZE    mST     mEN     tST     tEN
+Anchovy	                200	    Sea	                2	    1	    12  	400	    2100
+Angelfish	            3000    River	            2	    5	    10  	1600	900
+Arapaima	            10000	River	            6	    6	    9	    1600	900
+Arowana	                10000	River	            4	    6	    9	    1600	900
+Barred Knifejaw	        5000	Sea	                3	    3	    11  	0	    2359
+Barreleye	            15000	Sea	                2	    1	    12  	2100	400
+Betta	                2500	River	            2	    5	    10  	900	    1600
+Bitterling	            900	    River	            1	    11  	3	    0	    2359
+Black Bass	            400	    River	            4	    1	    12   	0	    2359
+Blowfish	            5000	Sea	                3	    11  	2	    2100	400
+Blue Marlin 1	        10000	Pier	            6	    7	    9	    0	    2359
+Blue Marlin 2	        10000	Pier	            6	    11  	4	    0	    2359
+Bluegill	            180	    River	            2	    1	    12	    900	    1600
+Butterfly Fish	        1000	Sea	                2	    4	    9	    0	    2359
+Carp	                300	    Pond	            4	    1	    12	    0	    2359
+Catfish	                800	    Pond	            4	    5	    10	    1600	900
+Char 1	                3800	River (Clifftop)    3	    3	    6	    1600	900
+Char 2	                3800	River (Clifftop)    3	    9   	11  	1600	900
+Cherry Salmon 1	        1000	River (Clifftop)	3	    3	    6	    1600	900
+Cherry Salmon 2	        1000	River (Clifftop)	3	    9	    11  	1600	900
+Clown Fish	            650	    Sea	                1	    4	    9	    0	    2359
+Coelacanth	            15000	Sea	                6	    1	    12  	0	    2359
+Crawfish	            200	    Pond	            2	    4	    9	    0   	2359
+Crucian Carp	        160	    River	            2	    1	    12	    0   	2359
+Dab	                    300	    Sea	                3	    10  	4	    0	    2359
+Dace	                240	    River	            3	    1	    12  	1600	900
+Dorado	                15000	River	            5	    6	    9	    400	    2100
+Football Fish	        2500	Sea	                4	    11  	3	    1600	900
+Freshwater Goby	        400	    River	            2	    1	    12  	1600	900
+Frog	                120	    Pond	            2	    5	    8	    0	    2359
+Gar	                    6000	Pond	            5	    6	    9	    1600	900
+Giant Snakehead	        5500	Pond	            4	    6	    8	    900	    1600
+Giant Trevally	        4500	Pier	            5	    5	    10	    0	    2359
+Golden Trout 1	        15000	River (Clifftop)	3	    3	    5	    1600	900
+Golden Trout 2	        15000	River (Clifftop)	3	    9	    11  	1600	900
+Goldfish	            1300	Pond	            1	    1	    12	    0	    2359
+Great White Shark	    15000	Sea	                6 (Fin)	6	    9	    1600	900
+Guppy	                1300	River	            1	    4	    11  	900	    1600
+Hammerhead Shark	    8000	Sea	                6 (Fin)	6	    9	    1600	900
+Horse Mackerel	        150	    Sea	                2	    1	    12  	0	    2359
+Killifish	            300	    Pond	            1	    4	    8	    0	    2359
+King Salmon	            1800	River (Mouth)	    6	    9	    9	    0	    2359
+Koi	                    4000	Pond	            4	    1	    12  	1600	900
+Loach	                400	    River	            2	    3	    5	    0	    2359
+Mahi-Mahi	            6000	Pier	            5	    5	    10  	0	    2359
+Mitten Crab	            2000	River	            2	    9	    11  	1600	900
+Moray Eel	            2000	Sea	                Narrow	8	    10  	0	    2359
+Napoleonfish	        10000	Sea	                6	    7	    8	    400 	2100
+Neon Tetra	            500	    River	            1	    4	    11  	900	    1600
+Nibble Fish	            1500	River	            1	    5	    9	    900 	1600
+Oarfish	                9000	Sea	                6	    12  	5   	0	    2359
+Ocean Sunfish	        4000	Sea	                6 (Fin)	7	    9	    400 	2100
+Olive Flounder	        800	    Sea	                5	    1	    12  	0	    2359
+Pale Chub	            200	    River	            1	    1   	12  	900	    1600
+Pike	                1800	River	            5	    9   	12  	0	    2359
+Piranha 1	            2500	River	            2	    6   	9	    900	    1600
+Piranha 2	            2500	River	            2	    6	    9	    2100	400
+Pond Smelt	            500	    River	            2	    12  	2   	0	    2359
+Pop-eyed Goldfish	    1300	Pond	            1	    1	    12  	900	    1600
+Puffer Fish	            250	    Sea	                3	    7	    9	    0	    2359
+Rainbowfish	            800	    River	            1	    5	    10  	900 	1600
+Ranchu Goldfish	        4500	Pond	            2	    1	    12  	900	    1600
+Ray	                    3000	Sea	                5	    8	    11  	400	    2100
+Red Snapper	            3000	Sea	                4	    1	    12  	0	    2359
+Ribbon Eel	            600	    Sea	                Narrow	6	    10  	0	    2359
+Saddled Bichir	        4000	River	            4	    6	    9	    2100  	400
+Salmon	                700	    River (Mouth)	    4	    9	    9	    0	    2359
+Saw Shark	            12000	Sea	                6 (Fin)	6	    9	    1600	900
+Sea Bass	            400	    Sea	                5	    1	    12  	0   	2359
+Sea Butterfly	        1000	Sea	                1	    12  	3	    0	    2359
+Sea Horse	            1100	Sea	                1	    4	    11  	0	    2359
+Snapping Turtle	        5000	River	            4	    4	    10  	2100	400
+Soft-shelled turtle	    3750	River	            4	    8	    9	    1600	900
+Squid	                500	    Sea	                3	    12	    8	    0	    2359
+Stringfish	            15000	River (Clifftop)	5	    12	    3	    1600	900
+Sturgeon	            10000	River (Mouth)	    6	    9	    3	    0	    2359
+Suckerfish	            1500	Sea	                6 (Fin)	6	    9	    0	    2359
+Surgeonfish	            1000	Sea	                2	    4	    9	    0	    2359
+Sweetfish	            900	    River	            3	    7	    9	    0	    2359
+Tadpole	                100	    Pond	            1	    3	    7   	0   	2359
+Tilapia	                800	    River	            3	    6	    10  	0   	2359
+Tuna	                7000	Pier	            6	    11	    4   	0   	2359
+Whale Shark	            13000	Sea	                6 (Fin) 6	    9   	0	    2359
+Yellow Perch	        300	    River	            3	    10	    3   	0	    2359
+Zebra Turkeyfish	    500	    Sea	                3	    4	    11  	0   	2359
